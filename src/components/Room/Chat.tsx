@@ -39,9 +39,5 @@ const Wrapper = styled.div`
   overflow-y: auto;
   border-radius: 25px;
   height: 100%;
-  /* background-color: ${(props) => props.theme.main};
-  box-shadow: ${(props) => props.theme.boxShadow};
-  display: flex;
-  flex-direction: column; */
   position: relative;
 `;
